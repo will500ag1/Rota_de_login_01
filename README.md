@@ -1,0 +1,1 @@
+#1 nodemon app.js = Inicia o servidor e atualiza automáticamente
